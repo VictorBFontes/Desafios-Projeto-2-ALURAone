@@ -1,5 +1,5 @@
-|PT - Arquivo de todos os desafios propostos pela alura, segue a lista abaixo:
- |EN - Files of all challenges proposed by Alura, list below:
+PT - Arquivo de todos os desafios propostos pela alura, segue a lista abaixo:
+EN - Files of all challenges proposed by Alura, list below:
 
 1ª lista:
 1. Crie uma classe `Pessoa` com um método que exibe "Olá, mundo!" no console.
