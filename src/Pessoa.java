@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Pessoa {
+public class Pessoa {
+
+    void metodo () {
+        System.out.println("Olá, mundo!");
+    }
 }
